@@ -1,9 +1,8 @@
 import os
 import json
 from distutils.util import strtobool as stb
-
 # --------------------------------------
-BOT_TOKEN = ""
+BOT_TOKEN = "1431950713:AAGTt48kWC0HAcddNkmrXZrQN-J6Uf8cXNM"
 GDRIVE_FOLDER_ID = ""
 # Default folder id.
 OWNER_ID = 123455673
